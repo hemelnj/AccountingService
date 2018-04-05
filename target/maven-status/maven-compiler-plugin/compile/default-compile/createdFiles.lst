@@ -1,0 +1,4 @@
+com\ngfs\core\RESTConfiguration.class
+com\ngfs\accountingservice\GlChart.class
+com\ngfs\accountingservice\GlChartService.class
+com\ngfs\accountingservice\GlChartService$1.class
